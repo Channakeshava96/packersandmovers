@@ -1,0 +1,19 @@
+Sitemap: https://www.smspackers.com/sitemap.xml
+
+User-agent: Googlebot 
+Allow: /smsinsurancehub/ 
+Allow: /packers-and-movers-bangalore-to-chennai/
+
+
+User-agent:*
+Disallow:/putup
+Disallow:/ord
+Disallow:/search
+Disallow:/admin
+Disallow:/sms
+Disallow:/about
+Disallow:/storage/
+Disallow:/Enqsub/
+Disallow:/aEnqsub/
+Disallow:/kEnqsub/
+
